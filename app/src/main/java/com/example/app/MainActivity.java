@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -19,21 +20,15 @@ public class MainActivity extends AppCompatActivity {
 int pkt=1;
     int wynik=0;
 
-    public void klik(View view){
+//    public void klik(View view){
+//
+//
+//        wynik=+pkt;
+//
+//        Toast.makeText(this,wynik,Toast.LENGTH_LONG).show();
+//
+//    }
 
-
-        wynik=+pkt;
-
-        Toast.makeText(this,wynik,Toast.LENGTH_LONG).show();
-
-    }
-
-public void textView(View view){
-String.valueOf(wynik);
-    TextView textView = (TextView) findViewById(R.id.textView);
-    textView.setText(String.valueOf(wynik));
-
-}
 
 
 }
