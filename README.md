@@ -9,6 +9,7 @@ Aplikacja to gra typu "Clicker" gdzie naszym zadaniem jest klikanie. Klikając d
 
 
 -Java
+
 -Android Studio 4.1.1
 
 ### Uruchomienie projektu
