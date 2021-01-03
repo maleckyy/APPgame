@@ -20,4 +20,4 @@ https://github.com/maleckyy/APPgame
 ### Zrzut ekranu
 
 
-![](https://github.com/maleckyy/APPgame/zrzut.png)
+![](https://github.com/maleckyy/APPgame/blob/main/zrzut.PNG)
